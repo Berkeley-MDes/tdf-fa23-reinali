@@ -5,6 +5,8 @@ Welcome to Reina's GitHub repository, where I compile my weekly report. As of no
 https://github.com/Berkeley-MDes/tdf-fa23-reinali/blob/main/weekly-reports/2023_08_31_week1.md
 
 ## Week 2
+https://github.com/Berkeley-MDes/tdf-fa23-reinali/blob/main/weekly-reports/2023_09_07_week2.md
+
 ## Week 3
 ## Week 4 (project 1 final): 
 
