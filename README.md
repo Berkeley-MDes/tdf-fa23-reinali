@@ -7,7 +7,7 @@ https://github.com/Berkeley-MDes/tdf-fa23-reinali/blob/main/weekly-reports/2023_
 ## Week 2
 https://github.com/Berkeley-MDes/tdf-fa23-reinali/blob/main/weekly-reports/2023_09_07_week2.md
 
-## Week 3
-## Week 4 (project 1 final): 
+## Week 3 (project 1 final):
+https://github.com/Berkeley-MDes/tdf-fa23-reinali/blob/main/weekly-reports/2023_09_14_week3.md
 
 
