@@ -16,3 +16,5 @@ https://github.com/Berkeley-MDes/tdf-fa23-reinali/blob/main/weekly-reports/2023_
 
 ## Week 5:
 https://github.com/Berkeley-MDes/tdf-fa23-reinali/blob/main/weekly-reports/2023_09_28_week5.md
+
+## Week 6:
