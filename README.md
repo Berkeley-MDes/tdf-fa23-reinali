@@ -34,3 +34,5 @@ https://github.com/Berkeley-MDes/tdf-fa23-reinali/blob/main/weekly-reports/2023_
 
 ## Week 11:
 https://github.com/Berkeley-MDes/tdf-fa23-reinali/blob/main/weekly-reports/2023_11_09_week11.md
+
+## Week 12:
